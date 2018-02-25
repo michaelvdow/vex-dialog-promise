@@ -1,6 +1,6 @@
 {
-  "name": "vex-promise",
-  "version": "1.0",
+  "name": "vex-dialog-promise",
+  "version": "1.0.0",
   "description": "A vex plugin for promise support",
   "author": "",
   "license": "MIT",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "domify": "1.4.0",
-    "form-serialize": "0.7.1"
+    "form-serialize": "0.7.1",
+    "promise": "^8.0.1"
   },
   "devDependencies": {
     "grunt": "1.0.1",
